@@ -1,0 +1,14 @@
+======================================================================
+AI RECOGNITION SYSTEM - MODEL INFORMATION
+======================================================================
+
+Total Parameters: 225,034
+Number of Layers: 8
+
+Training Results:
+  Final Training Accuracy: 99.63%
+  Final Validation Accuracy: 99.12%
+  Final Training Loss: 0.0125
+  Final Validation Loss: 0.0343
+
+======================================================================
